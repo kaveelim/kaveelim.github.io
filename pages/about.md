@@ -4,5 +4,5 @@ title: About
 ---
 
 About me...
-  
-CV
+
+[CV](cv.html)

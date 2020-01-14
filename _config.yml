@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 
-exclude: [/draft]
+exclude: [/draft, '*.Rmd']
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Kavee Limbutara"
